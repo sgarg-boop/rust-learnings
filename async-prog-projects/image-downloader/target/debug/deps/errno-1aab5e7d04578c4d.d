@@ -1,0 +1,8 @@
+/home/sgarg_code2/rust-learnings/async-prog-projects/image-downloader/target/debug/deps/errno-1aab5e7d04578c4d.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/errno-0.3.14/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/errno-0.3.14/src/unix.rs
+
+/home/sgarg_code2/rust-learnings/async-prog-projects/image-downloader/target/debug/deps/liberrno-1aab5e7d04578c4d.rlib: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/errno-0.3.14/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/errno-0.3.14/src/unix.rs
+
+/home/sgarg_code2/rust-learnings/async-prog-projects/image-downloader/target/debug/deps/liberrno-1aab5e7d04578c4d.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/errno-0.3.14/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/errno-0.3.14/src/unix.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/errno-0.3.14/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/errno-0.3.14/src/unix.rs:
